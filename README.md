@@ -1,7 +1,8 @@
 # RegenerationX
 
 #### FAQ
-```1) What is RegenerationX ?
+```
+1) What is RegenerationX ?
 -> It is a new community which is made by Daksh and Dimas
 
 2) Why is RegenerationX made ?
@@ -11,4 +12,5 @@
 -> Telegram
 
 4) Why did we leave discord ?
-->```
+->
+```
