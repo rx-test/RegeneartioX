@@ -13,8 +13,8 @@
 
 4) Why did we leave discord ?
 - There are many reasons due to which we left Discord
-..* Discord steals the data [ https://foundation.mozilla.org/en/privacynotincluded/discord ]
-..* Telegram has some better features like Sharing file upto 2 GB , Security and Privacy etc
+  * Discord steals the data [ https://foundation.mozilla.org/en/privacynotincluded/discord ]
+  * Telegram has some better features like Sharing file upto 2 GB , Security and Privacy etc
 
 5) Are we making a "MOD" ?
 - No , we are going to make a new os from android-x86 source code
