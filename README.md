@@ -1,4 +1,4 @@
-# RegenerationX
+## RegenerationX
 
 #### FAQ
 ```
